@@ -1,6 +1,6 @@
 {
     "name": "frydry/symfony-rou",
-    "license": "",
+    "license": "MIT",
     "type": "project",
     "autoload": {
         "psr-4": {
